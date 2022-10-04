@@ -1,1 +1,1 @@
-# scripts_stickiness
+# About the scripts
